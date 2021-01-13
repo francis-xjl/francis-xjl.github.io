@@ -23,7 +23,7 @@ deploy:
     keep_history: true
     target-branch: gh-pages
     on:
-      branch: master
+      branch: main
   # - provider: script
   #   keep_history: true
   #   skip_cleanup: true
