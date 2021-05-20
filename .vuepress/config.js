@@ -89,13 +89,13 @@ module.exports = {
           text: '代码',
           // 这里是下拉列表展现形式。
           items: [
-            {
-              text: '文档工程 Awesome-Fenix',
-              link: 'https://github.com/fenixsoft/awesome-fenix'
-            }, {
-              text: '前端工程 Fenix\'s Bookstore',
-              link: 'https://github.com/fenixsoft/fenix-bookstore-frontend'
-            }
+            // {
+            //   text: '文档工程 Awesome-Fenix',
+            //   link: 'https://github.com/fenixsoft/awesome-fenix'
+            // }, {
+            //   text: '前端工程 Fenix\'s Bookstore',
+            //   link: 'https://github.com/fenixsoft/fenix-bookstore-frontend'
+            // }
           ]
         },
         {text: '讨论区', link: '/board/', target: "_self"}
@@ -113,4 +113,3 @@ module.exports = {
       ]
     }
   };
-  

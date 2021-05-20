@@ -6,13 +6,6 @@
     </div>
     <div class="git-hub-star">
       <span class="prefix" v-if="pageWords > 0">
-        Kudos to
-        <github-button href="https://github.com/fenixsoft/awesome-fenix" data-icon="octicon-star" data-show-count="true"
-                       aria-label="Star fenixsoft/awesome-fenix on GitHub"
-                       style="position: relative; top: 4px; right: -4px;">
-        Star
-      </github-button>
-
       </span>
     </div>
     <div v-if="lastUpdated" class="last-updated">
