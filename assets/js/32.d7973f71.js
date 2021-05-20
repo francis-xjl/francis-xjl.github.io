@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[32],{551:function(t,e,n){"use strict";n.r(e);var s=n(25),l=Object(s.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("p",[this._v("在公司内部，我做了不少系统重构工作。将会对这些重构的场景与方法进行总结。")])])}),[],!1,null,null,null);e.default=l.exports}}]);
