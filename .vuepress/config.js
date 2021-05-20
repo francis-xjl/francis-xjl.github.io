@@ -113,7 +113,11 @@ module.exports = {
           title: '自我介绍',
           collapsable: false,
           path: '/introduction/about-me'
-        }
+        }, {
+          title: '系统重构',
+          collapsable: false,
+          path: '/refact/refact-index.md'
+        },
       ]
     }
   };
