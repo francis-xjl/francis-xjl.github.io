@@ -5,8 +5,6 @@
       <OutboundLink/>
     </div>
     <div class="git-hub-star">
-      <span class="prefix" v-if="pageWords > 0">
-      </span>
     </div>
     <div v-if="lastUpdated" class="last-updated">
       <span class="prefix" v-if="pageWords > 0">总字数:</span>

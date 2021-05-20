@@ -89,6 +89,10 @@ module.exports = {
           text: '代码',
           // 这里是下拉列表展现形式。
           items: [
+            {
+              text: '测试链接',
+              link: 'https://github.com/francis-xjl/francis-xjl.github.io'
+            }
             // {
             //   text: '文档工程 Awesome-Fenix',
             //   link: 'https://github.com/fenixsoft/awesome-fenix'
